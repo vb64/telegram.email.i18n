@@ -1,27 +1,3 @@
-msgid "Yandex Money"
-msgstr "Yandex Money"
-
-msgid "YouTube"
-msgstr "YouTube"
-
-msgid "FaceBook"
-msgstr "FaceBook"
-
-msgid "Odnoklassniki.ru"
-msgstr "Odnoklassniki.ru"
-
-msgid "LiveJournal"
-msgstr "LiveJournal"
-
-msgid "Reddit "
-msgstr "Reddit "
-
-msgid "Twitter"
-msgstr "Twitter"
-
-msgid "Beeline"
-msgstr "Beeline"
-
 msgid "There is incoming mail from '{}' to {}."
 msgstr "There is incoming mail from '{}' to {}."
 
@@ -900,10 +876,8 @@ msgstr "This address can't contain '|' and ';' symbols."
 msgid "[There is a HOWTO]({}) for building and deploying such web resource."
 msgstr "[There is a HOWTO]({}) for building and deploying such web resource."
 
-msgid ""
-"http://telegra.ph/EmailGateBot-webhook-for-message-text-transformation-03-18"
-msgstr ""
-"http://telegra.ph/EmailGateBot-webhook-for-message-text-transformation-03-18"
+msgid "https://github.com/vb64/telegram.email.notify/blob/master/README.md"
+msgstr "https://github.com/vb64/telegram.email.notify/blob/master/README.md"
 
 msgid "Checking given address '{}'..."
 msgstr "Checking given address '{}'..."
