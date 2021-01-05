@@ -8,13 +8,13 @@ msgid "Allow once"
 msgstr "Рermitir una vez"
 
 msgid "Disallow once"
-msgstr "Disallow once"
+msgstr "No permitir una vez"
 
 msgid "Allow permanently"
 msgstr "Рermitir siempre"
 
 msgid "Disable permanently"
-msgstr "Disable permanently"
+msgstr "Desactivar permanentemente"
 
 msgid "Preview message"
 msgstr "Previsualizar mensaje"
@@ -23,10 +23,10 @@ msgid "Message original"
 msgstr "Original"
 
 msgid "Processed early"
-msgstr "Processed early"
+msgstr "Procesado temprano"
 
 msgid "{} from now"
-msgstr "{} from now"
+msgstr "{} desde ahora"
 
 msgid "{}, removal {} from now"
 msgstr "{}, sustracción {} desde ahora"
@@ -44,7 +44,7 @@ msgid "Message preview from '{}' to '{}'."
 msgstr "Previsualización de mensaje de '{}' para '{}'."
 
 msgid "permanent"
-msgstr "permanent"
+msgstr "permanente"
 
 msgid "Posting from '{}' is enabled{}"
 msgstr "La publicación desde '{}' está activada{}"
@@ -62,22 +62,22 @@ msgid "{} min."
 msgstr "{} min."
 
 msgid "soon"
-msgstr "soon"
+msgstr "pronto"
 
 msgid "You are reached the daily quota for attachments sent ({} attachments)."
 msgstr "Ha alcanzado la cuota diaria de adjuntos enviados ({} adjuntos)."
 
 msgid "Daily quota will be reset after {} hours."
-msgstr "Daily quota will be reset after {} hours."
+msgstr "La cuota diaria se restablecerá después de {} horas."
 
 msgid "I lost access to the chat with code *{}* and stop writing there."
-msgstr "I lost access to the chat with code *{}* and stop writing there."
+msgstr "Perdí el acceso al chat con el código * {} * y dejé de escribir allí."
 
 msgid "Message from '{}' to '{}' ({})."
-msgstr "Message from '{}' to '{}' ({})."
+msgstr "Mensaje de '{}' a '{}' ({})."
 
 msgid "Your account received a non-standard payment of {} {}."
-msgstr "Your account received a non-standard payment of {} {}."
+msgstr "Su cuenta recibió un pago no estándar de {} {}."
 
 msgid ""
 "Please, forward this message to the bot support group in order to add the "
@@ -87,37 +87,37 @@ msgstr ""
 "required amount of coins according to this payment."
 
 msgid "You have credited coins: {}"
-msgstr "You have credited coins: {}"
+msgstr "Has acreditado monedas: {}"
 
 msgid "Your referral bought coins: {}"
-msgstr "Your referral bought coins: {}"
+msgstr "Su referencia compró monedas: {}"
 
 msgid "Referral data: {}"
-msgstr "Referral data: {}"
+msgstr "Datos de referencia: {}"
 
 msgid "To receive the next coin, your referrals must buy coins: {}"
-msgstr "To receive the next coin, your referrals must buy coins: {}"
+msgstr "Para recibir la siguiente moneda, sus referidos deben comprar monedas: {}"
 
 msgid "Now you have coins: {}"
-msgstr "Now you have coins: {}"
+msgstr "Ahora tienes monedas: {}"
 
 msgid "Admin change"
-msgstr "Admin change"
+msgstr "Cambio de administrador"
 
 msgid "Purchase"
-msgstr "Purchase"
+msgstr "Compra"
 
 msgid "Payment for chat"
-msgstr "Payment for chat"
+msgstr "Pago por chat"
 
 msgid "From referral program"
-msgstr "From referral program"
+msgstr "Del programa de referencia"
 
 msgid "Referral bonus"
-msgstr "Referral bonus"
+msgstr "Bono por recomendación"
 
 msgid "Ignore post to private chat '{}' from '{}'"
-msgstr "Ignore post to private chat '{}' from '{}'"
+msgstr "Ignorar la publicación en el chat privado '{}' de '{}'"
 
 msgid ""
 "To allow posting, enable premium mode for this chat, or make this chat "
@@ -127,7 +127,7 @@ msgstr ""
 "public (set username)."
 
 msgid "this chat"
-msgstr "this chat"
+msgstr "este chat"
 
 msgid ""
 "To publish this file, add the following text on a separate line to the email "
@@ -137,55 +137,55 @@ msgstr ""
 "body:"
 
 msgid "Learn more from the [detailed guide]({})."
-msgstr "Learn more from the [detailed guide]({})."
+msgstr "Obtenga más información en la [guía detallada] ({})."
 
 msgid "https://vb64.github.io/telegram.email.notify/docs/en/guide.html"
 msgstr "https://vb64.github.io/telegram.email.notify/docs/en/guide.html"
 
 msgid "Stay tuned at the [news channel]({}) of the bot."
-msgstr "Stay tuned at the [news channel]({}) of the bot."
+msgstr "Estén atentos al [canal de noticias] ({}) del bot."
 
 msgid "t.me/emailgateen"
 msgstr "t.me/emailgateen"
 
 msgid "Ask questions at the bot [support group]({})."
-msgstr "Ask questions at the bot [support group]({})."
+msgstr "Haz preguntas en el bot [grupo de apoyo] ({})."
 
 msgid "{} command can be used in private chat @{}"
-msgstr "{} command can be used in private chat @{}"
+msgstr "El comando {} se puede usar en un chat privado @ {}"
 
 msgid "Buy internal coins for bot premium  functions."
-msgstr "Buy internal coins for bot premium  functions."
+msgstr "Compre monedas internas para las funciones premium de bot."
 
 msgid "Buy coins"
-msgstr "Buy coins"
+msgstr "Comprar monedas"
 
 msgid "List of your chats."
-msgstr "List of your chats."
+msgstr "Lista de tus chats."
 
 msgid "Please wait, data are processing."
-msgstr "Please wait, data are processing."
+msgstr "Espere, los datos se están procesando."
 
 msgid "/clearkeyboard command can be used by admins in groups."
-msgstr "/clearkeyboard command can be used by admins in groups."
+msgstr "El comando / clearkeyboard puede ser utilizado por administradores en grupos."
 
 msgid "More"
-msgstr "More"
+msgstr "Más"
 
 msgid "User ID {} have coins: {}"
-msgstr "User ID {} have coins: {}"
+msgstr "El ID de usuario {} tiene monedas: {}"
 
 msgid "The administrator has credited you with coins: {}"
-msgstr "The administrator has credited you with coins: {}"
+msgstr "El administrador le ha acreditado con monedas: {}"
 
 msgid "Please send me an emoji to view emoji code."
-msgstr "Please send me an emoji to view emoji code."
+msgstr "Envíeme un emoji para ver el código emoji."
 
 msgid "To return to bot menu, use /start command."
-msgstr "To return to bot menu, use /start command."
+msgstr "Para volver al menú del bot, use el comando / start."
 
 msgid "Emoji codes not found."
-msgstr "Emoji codes not found."
+msgstr "No se encontraron los códigos de emoji."
 
 msgid ""
 "You can view the list of chats, where bot was added, by sending /start "
@@ -195,28 +195,28 @@ msgstr ""
 "command in private chat."
 
 msgid "posting to the channel"
-msgstr "posting to the channel"
+msgstr "publicar en el canal"
 
 msgid "scheduled, repeatable, and auto-deleted publications"
-msgstr "scheduled, repeatable, and auto-deleted publications"
+msgstr "publicaciones programadas, repetibles y eliminadas automáticamente"
 
 msgid "emoji emoticons and text formatting"
-msgstr "emoji emoticons and text formatting"
+msgstr "emoticonos emoji y formato de texto"
 
 msgid "how to edit published messages"
-msgstr "how to edit published messages"
+msgstr "cómo editar mensajes publicados"
 
 msgid "how to attach inline buttons to messages."
-msgstr "how to attach inline buttons to messages."
+msgstr "cómo adjuntar botones en línea a los mensajes."
 
 msgid "how to publish files (video, sticker, voice, etc)."
-msgstr "how to publish files (video, sticker, voice, etc)."
+msgstr "cómo publicar archivos (video, calcomanías, voz, etc.)."
 
 msgid "word to spammers."
-msgstr "word to spammers."
+msgstr "palabra a los spammers."
 
 msgid "Dear unknown spammer!"
-msgstr "Dear unknown spammer!"
+msgstr "Estimado spammer desconocido!"
 
 msgid ""
 "This bot does not have a SMTP interface and you can only communicate with it "
@@ -226,10 +226,10 @@ msgstr ""
 "via mailbox."
 
 msgid "This bot is absolutely unsuitable for your purposes."
-msgstr "This bot is absolutely unsuitable for your purposes."
+msgstr "Este bot es absolutamente inadecuado para sus propósitos."
 
 msgid "Pass by and good luck!"
-msgstr "Pass by and good luck!"
+msgstr "¡Pasa y buena suerte!"
 
 msgid ""
 "For posting to the channel add the bot as channel administrator, then send "
@@ -266,7 +266,7 @@ msgstr ""
 "at the separate line of your reply."
 
 msgid "This line don't be included in the updated message."
-msgstr "This line don't be included in the updated message."
+msgstr "Esta línea no se incluye en el mensaje actualizado."
 
 msgid ""
 "The bot automatically deletes your reply with a new message text if it has "
@@ -283,7 +283,7 @@ msgstr ""
 "answer yourself (if necessary)."
 
 msgid "There are some limitations."
-msgstr "There are some limitations."
+msgstr "Existen algunas limitaciones."
 
 msgid ""
 "- editing does not work for messages published earlier than February 13, "
@@ -293,7 +293,7 @@ msgstr ""
 "2018 18:00 GMT"
 
 msgid "- editing does not work in private chat with the bot"
-msgstr "- editing does not work in private chat with the bot"
+msgstr "- la edición no funciona en el chat privado con el bot"
 
 msgid ""
 "- in groups and supergroups to edit bot messages, a user must add a bot to "
@@ -303,7 +303,7 @@ msgstr ""
 "this group"
 
 msgid "- editing works in channels where the mode 'signed messages' is on"
-msgstr "- editing works in channels where the mode 'signed messages' is on"
+msgstr "- la edición funciona en canales donde el modo 'mensajes firmados' está activado"
 
 msgid ""
 "Messages in Telegram, that were sent via a MailGate bot, can contain any "
@@ -329,10 +329,10 @@ msgstr ""
 "Text inside square brackets defines the inline button as the poll option."
 
 msgid "You can put several definitions, separated by spaces, in one row."
-msgstr "You can put several definitions, separated by spaces, in one row."
+msgstr "Puede poner varias definiciones, separadas por espacios, en una fila."
 
 msgid "Yes"
-msgstr "Yes"
+msgstr "si"
 
 msgid "No"
 msgstr "No"
@@ -343,13 +343,13 @@ msgstr ""
 "The text of buttons title can contain codes, that displaying as emoji icons."
 
 msgid "Complete list of emoji codes can be found [here]({})."
-msgstr "Complete list of emoji codes can be found [here]({})."
+msgstr "Puede encontrar la lista completa de códigos emoji [aquí] ({})."
 
 msgid "By default, the newly created poll will be active for 30 days."
-msgstr "By default, the newly created poll will be active for 30 days."
+msgstr "De forma predeterminada, la encuesta recién creada estará activa durante 30 días."
 
 msgid "It is a maximum duration."
-msgstr "It is a maximum duration."
+msgstr "Es una duración máxima."
 
 msgid ""
 "You can decrease this value by settings the duration of the poll in minutes "
@@ -359,7 +359,7 @@ msgstr ""
 "at the line with `###buttons` code."
 
 msgid "For example, a 10 minutes poll:"
-msgstr "For example, a 10 minutes poll:"
+msgstr "Por ejemplo, una encuesta de 10 minutos:"
 
 msgid ""
 "If closed square bracket is followed by an open round bracket (with no "
@@ -369,22 +369,22 @@ msgstr ""
 "spaces), then this button definition is interpreted as the url-link button."
 
 msgid "Url address must be put inside round brackets."
-msgstr "Url address must be put inside round brackets."
+msgstr "La dirección URL debe colocarse entre corchetes."
 
 msgid "And all of this can be mixed in any combination."
-msgstr "And all of this can be mixed in any combination."
+msgstr "Y todo esto se puede mezclar en cualquier combinación."
 
 msgid "Maybe"
-msgstr "Maybe"
+msgstr "Tal vez"
 
 msgid "The bot can post scheduled messages."
-msgstr "The bot can post scheduled messages."
+msgstr "El bot puede publicar mensajes programados."
 
 msgid "To do this, place a special code on the separate line of your message."
-msgstr "To do this, place a special code on the separate line of your message."
+msgstr "Para hacer esto, coloque un código especial en la línea separada de su mensaje."
 
 msgid "For example:"
-msgstr "For example:"
+msgstr "Por ejemplo:"
 
 msgid ""
 "In this case, the message will be published in Telegram chat in given date "
@@ -408,19 +408,19 @@ msgstr ""
 "the `stop` tag after the `start` tag. "
 
 msgid "Lines with a code will be removed from the published message."
-msgstr "Lines with a code will be removed from the published message."
+msgstr "Las líneas con un código se eliminarán del mensaje publicado."
 
 msgid "You can plan scheduled messages up to 30 days ahead."
-msgstr "You can plan scheduled messages up to 30 days ahead."
+msgstr "Puede planificar mensajes programados con hasta 30 días de anticipación."
 
 msgid "Each channel/group queue can contain up to 10 scheduled tasks."
-msgstr "Each channel/group queue can contain up to 10 scheduled tasks."
+msgstr "Cada cola de canal / grupo puede contener hasta 10 tareas programadas."
 
 msgid "The text in the `email message` may *contain* _markup_"
-msgstr "The text in the `email message` may *contain* _markup_"
+msgstr "El texto del `mensaje de correo electrónico` puede * contener * _markup_"
 
 msgid "or"
-msgstr "or"
+msgstr "o"
 
 msgid ""
 "To turn on markup, add text\n"
@@ -448,13 +448,13 @@ msgstr ""
 "The first 1024 bytes of the message text will be used as a photo caption."
 
 msgid "Valid extensions are:"
-msgstr "Valid extensions are:"
+msgstr "Las extensiones válidas son:"
 
 msgid "During the day in this way you can post no more than {} pictures."
-msgstr "During the day in this way you can post no more than {} pictures."
+msgstr "Durante el día, de esta manera, no puede publicar más de {} imágenes."
 
 msgid "The limit is reset every day at 00:00 GMT."
-msgstr "The limit is reset every day at 00:00 GMT."
+msgstr "El límite se restablece todos los días a las 00:00 GMT."
 
 msgid ""
 "Also, you can publish image or any file, that supported by Telegram, in "
@@ -464,10 +464,10 @@ msgstr ""
 "special way."
 
 msgid "To do this, you need to send file to private chat with bot."
-msgstr "To do this, you need to send file to private chat with bot."
+msgstr "Para hacer esto, debe enviar el archivo al chat privado con el bot."
 
 msgid "The bot will reply you by message, that contain special code."
-msgstr "The bot will reply you by message, that contain special code."
+msgstr "El bot le responderá mediante un mensaje que contiene un código especial."
 
 msgid ""
 "This code can be inserted into email body and desired file will be published."
@@ -475,7 +475,7 @@ msgstr ""
 "This code can be inserted into email body and desired file will be published."
 
 msgid "Files, that posted by this way, don't counted for daily quota."
-msgstr "Files, that posted by this way, don't counted for daily quota."
+msgstr "Los archivos que se publican de esta manera no cuentan para la cuota diaria."
 
 msgid ""
 "If you specify a code and attach an image file to email, the attached image "
@@ -485,64 +485,64 @@ msgstr ""
 "file will be used and code will be ignored."
 
 msgid "The terms of referral program are [described here]({})."
-msgstr "The terms of referral program are [described here]({})."
+msgstr "Los términos del programa de recomendación se [describen aquí] ({})."
 
 msgid "Your referral link"
-msgstr "Your referral link"
+msgstr "Tu enlace de referencia"
 
 msgid "Total referrals: {}"
-msgstr "Total referrals: {}"
+msgstr "Referencias totales: {}"
 
 msgid "Coins earned: {}"
-msgstr "Coins earned: {}"
+msgstr "Monedas ganadas: {}"
 
 msgid "Referral coins to next charge: {}"
-msgstr "Referral coins to next charge: {}"
+msgstr "Monedas de referencia para el próximo cargo: {}"
 
 msgid "Back to bot menu"
-msgstr "Back to bot menu"
+msgstr "Volver al menú del bot"
 
 msgid "Registrations"
-msgstr "Registrations"
+msgstr "Inscripciones"
 
 msgid "Registrations notify"
-msgstr "Registrations notify"
+msgstr "Notificar inscripciones"
 
 msgid "Purchases"
-msgstr "Purchases"
+msgstr "Compras"
 
 msgid "Purchases notify"
-msgstr "Purchases notify"
+msgstr "Compras notificar"
 
 msgid "Disable registrations notify"
-msgstr "Disable registrations notify"
+msgstr "Deshabilitar la notificación de registros"
 
 msgid "Notifications about new referrals are off."
-msgstr "Notifications about new referrals are off."
+msgstr "Las notificaciones sobre nuevas referencias están desactivadas."
 
 msgid "Notifications about new referrals are on."
-msgstr "Notifications about new referrals are on."
+msgstr "Las notificaciones sobre nuevas referencias están activadas."
 
 msgid "Select chat for new referrals notify."
-msgstr "Select chat for new referrals notify."
+msgstr "Seleccione el chat para notificar nuevas referencias."
 
 msgid "List of referral purchases, UTC times"
-msgstr "List of referral purchases, UTC times"
+msgstr "Lista de compras de referencia, horas UTC"
 
 msgid "Disable purchases notify"
-msgstr "Disable purchases notify"
+msgstr "Deshabilitar las compras notificar"
 
 msgid "Notifications about referral purchases are off."
-msgstr "Notifications about referral purchases are off."
+msgstr "Las notificaciones sobre compras de referencias están desactivadas."
 
 msgid "Notifications about referral purchases are on."
-msgstr "Notifications about referral purchases are on."
+msgstr "Las notificaciones sobre compras de referencias están activadas."
 
 msgid "Select chat for referral purchases notify."
-msgstr "Select chat for referral purchases notify."
+msgstr "Seleccione el chat para notificar las compras de referencia."
 
 msgid "First, please open private chat @{} for instructions."
-msgstr "First, please open private chat @{} for instructions."
+msgstr "Primero, abra el chat privado @ {} para obtener instrucciones."
 
 msgid ""
 "The email address for posting to this channel can be found in a private chat "
@@ -557,19 +557,19 @@ msgstr ""
 "To post to a private channel, you need to enable paid mode for that channel."
 
 msgid "This can be done in a private chat with the @{}."
-msgstr "This can be done in a private chat with the @{}."
+msgstr "Esto se puede hacer en un chat privado con @ {}."
 
 msgid "There you can also find the email address for posting to the channel."
-msgstr "There you can also find the email address for posting to the channel."
+msgstr "Allí también puede encontrar la dirección de correo electrónico para publicar en el canal."
 
 msgid "You can read more about the paid mode here"
-msgstr "You can read more about the paid mode here"
+msgstr "Puedes leer más sobre el modo pago aquí."
 
 msgid "https://vb64.github.io/telegram.email.notify/docs/en/paid_and_free.html"
 msgstr "https://vb64.github.io/telegram.email.notify/docs/en/paid_and_free.html"
 
 msgid "Hi, admin!"
-msgstr "Hi, admin!"
+msgstr "¡Hola admin!"
 
 msgid ""
 "The email address for posting to this group can be found in a private chat "
@@ -584,25 +584,25 @@ msgstr ""
 "To post to a private group, you need to enable paid mode for that group."
 
 msgid "There you can also find the email address for posting to the group."
-msgstr "There you can also find the email address for posting to the group."
+msgstr "Allí también puede encontrar la dirección de correo electrónico para publicar en el grupo."
 
 msgid "Hi, {}!"
-msgstr "Hi, {}!"
+msgstr "Hola, {}!"
 
 msgid "Previous"
-msgstr "Previous"
+msgstr "Anterior"
 
 msgid "This chat"
-msgstr "This chat"
+msgstr "Este chat"
 
 msgid "Next"
-msgstr "Next"
+msgstr "próximo"
 
 msgid "Previous page"
-msgstr "Previous page"
+msgstr "Pagina anterior"
 
 msgid "Next page"
-msgstr "Next page"
+msgstr "Siguiente página"
 
 msgid ""
 "This bot allows posting from an email box to Telegram chats, where you added "
@@ -624,46 +624,46 @@ msgstr ""
 "Messages can be scheduled up to 30 days ahead, repeatable and auto-deleted."
 
 msgid "Published messages can be edited."
-msgstr "Published messages can be edited."
+msgstr "Los mensajes publicados se pueden editar."
 
 msgid "/start to return to this screen at any time."
-msgstr "/start to return to this screen at any time."
+msgstr "/ empezar a volver a esta pantalla en cualquier momento."
 
 msgid "/language to change the language of this conversation."
-msgstr "/language to change the language of this conversation."
+msgstr "/ language para cambiar el idioma de esta conversación."
 
 msgid "/help for more info."
-msgstr "/help for more info."
+msgstr "/ help para obtener más información."
 
 msgid "your coins: {}"
-msgstr "your coins: {}"
+msgstr "tus monedas: {}"
 
 msgid "/buycoins for fund your account with EmailGateBot internal coins."
-msgstr "/buycoins for fund your account with EmailGateBot internal coins."
+msgstr "/ buycoins para depositar fondos en su cuenta con monedas internas de EmailGateBot."
 
 msgid "/coinslog for view the history of balance changes."
-msgstr "/coinslog for view the history of balance changes."
+msgstr "/ Coinslog para ver el historial de cambios de saldo."
 
 msgid "/referrals for join to the referral program."
-msgstr "/referrals for join to the referral program."
+msgstr "/ referidos para unirse al programa de referidos."
 
 msgid "For posting to group and supergroup just add the bot as a member."
-msgstr "For posting to group and supergroup just add the bot as a member."
+msgstr "Para publicar en grupos y supergrupos, simplemente agregue el bot como miembro."
 
 msgid "/helpchannel for posting to the channel."
-msgstr "/helpchannel for posting to the channel."
+msgstr "/ helpchannel para publicar en el canal."
 
 msgid "To publish a file, first send the desired file to this chat."
-msgstr "To publish a file, first send the desired file to this chat."
+msgstr "Para publicar un archivo, primero envíe el archivo deseado a este chat."
 
 msgid "Select chat from the list for manage and instructions how to post to."
-msgstr "Select chat from the list for manage and instructions how to post to."
+msgstr "Seleccione el chat de la lista para administrarlo e instrucciones sobre cómo publicar."
 
 msgid "disabled"
-msgstr "disabled"
+msgstr "discapacitado"
 
 msgid "enabled"
-msgstr "enabled"
+msgstr "habilitado"
 
 msgid ""
 "Each first post from new email needs to be approved by you in this private "
@@ -673,19 +673,19 @@ msgstr ""
 "chat."
 
 msgid "All incoming emails are published automatically."
-msgstr "All incoming emails are published automatically."
+msgstr "Todos los correos electrónicos entrantes se publican automáticamente."
 
 msgid "Free mode"
-msgstr "Free mode"
+msgstr "Modo libre"
 
 msgid "Enable premium mode"
-msgstr "Enable premium mode"
+msgstr "Habilitar el modo premium"
 
 msgid "Premium mode until {} UTC"
-msgstr "Premium mode until {} UTC"
+msgstr "Modo premium hasta las {} UTC"
 
 msgid "Prolongate premium mode"
-msgstr "Prolongate premium mode"
+msgstr "Prolongar el modo premium"
 
 msgid ""
 "Mail to \n"
@@ -697,46 +697,46 @@ msgstr ""
 " and content of your email will be published in '{}'."
 
 msgid "Publication of html links for this chat: {}"
-msgstr "Publication of html links for this chat: {}"
+msgstr "Publicación de enlaces html para este chat: {}"
 
 msgid "Link preview mode for this chat: {}"
-msgstr "Link preview mode for this chat: {}"
+msgstr "Modo de vista previa del enlace para este chat: {}"
 
 msgid "Publishing email addresses for this chat: {}"
-msgstr "Publishing email addresses for this chat: {}"
+msgstr "Publicando direcciones de correo electrónico para este chat: {}"
 
 msgid "Another group/channel"
-msgstr "Another group/channel"
+msgstr "Otro grupo / canal"
 
 msgid "Regenerate chat code"
-msgstr "Regenerate chat code"
+msgstr "Regenerar el código de chat"
 
 msgid "Show addresses"
-msgstr "Show addresses"
+msgstr "Mostrar direcciones"
 
 msgid "Html links"
-msgstr "Html links"
+msgstr "Enlaces HTML"
 
 msgid "Link preview"
-msgstr "Link preview"
+msgstr "Vista previa del enlace"
 
 msgid "Auto posting"
-msgstr "Auto posting"
+msgstr "Publicación automática"
 
 msgid "Remove from list"
-msgstr "Remove from list"
+msgstr "Quitar de la lista"
 
 msgid "Scheduled: {}"
-msgstr "Scheduled: {}"
+msgstr "Programado: {}"
 
 msgid "Allowlist"
-msgstr "Allowlist"
+msgstr "Lista de permitidos"
 
 msgid "Stoplist"
 msgstr "Stoplist"
 
 msgid "Are you wish to enable auto posting mode to chat '{}'?"
-msgstr "Are you wish to enable auto posting mode to chat '{}'?"
+msgstr "¿Deseas habilitar el modo de publicación automática para chatear con '{}'?"
 
 msgid ""
 "All incoming emails will be published automatically, without any request."
@@ -751,91 +751,91 @@ msgstr ""
 "them in the Telegram message."
 
 msgid "Are you wish to extract and publish html links to chat '{}'?"
-msgstr "Are you wish to extract and publish html links to chat '{}'?"
+msgstr "¿Desea extraer y publicar enlaces html al chat '{}'?"
 
 msgid "Are you wish to enable link preview mode to chat '{}'?"
-msgstr "Are you wish to enable link preview mode to chat '{}'?"
+msgstr "¿Desea habilitar el modo de vista previa del enlace para chatear con '{}'?"
 
 msgid "Failed set premium mode for chat '{}', coins: {}, balance: {}"
-msgstr "Failed set premium mode for chat '{}', coins: {}, balance: {}"
+msgstr "No se pudo establecer el modo premium para el chat '{}', monedas: {}, saldo: {}"
 
 msgid "Premium mode is set until {} for chat '{}'."
-msgstr "Premium mode is set until {} for chat '{}'."
+msgstr "El modo premium está configurado hasta el {} para el chat '{}'."
 
 msgid "Coins spent: {}"
-msgstr "Coins spent: {}"
+msgstr "Monedas gastadas: {}"
 
 msgid "You need to enter an integer number of coins."
-msgstr "You need to enter an integer number of coins."
+msgstr "Debes ingresar un número entero de monedas."
 
 msgid "(enter 0 for cancel)"
-msgstr "(enter 0 for cancel)"
+msgstr "(ingrese 0 para cancelar)"
 
 msgid "You do not have enough coins in your account to pay."
-msgstr "You do not have enough coins in your account to pay."
+msgstr "No tiene suficientes monedas en su cuenta para pagar."
 
 msgid "One coin equals 30 days of service for the '{}' in premium mode."
-msgstr "One coin equals 30 days of service for the '{}' in premium mode."
+msgstr "Una moneda equivale a 30 días de servicio para el '{}' en modo premium."
 
 msgid "How many coins do you want to use?"
-msgstr "How many coins do you want to use?"
+msgstr "¿Cuántas monedas quieres usar?"
 
 msgid "First, you need to top up your balance."
-msgstr "First, you need to top up your balance."
+msgstr "Primero, debe recargar su saldo."
 
 msgid "{} left chat '{}'."
-msgstr "{} left chat '{}'."
+msgstr "{} abandonó el chat '{}'."
 
 msgid "Are you sure to remove '{}' from list?"
-msgstr "Are you sure to remove '{}' from list?"
+msgstr "¿Está seguro de eliminar "{}" de la lista?"
 
 msgid "{} will exit this group/channel."
-msgstr "{} will exit this group/channel."
+msgstr "{} saldrá de este grupo / canal."
 
 msgid "New code for posting to '{}' is '{}'."
-msgstr "New code for posting to '{}' is '{}'."
+msgstr "El nuevo código para publicar en '{}' es '{}'."
 
 msgid "Are you sure to regenerate code for posting to '{}'?"
-msgstr "Are you sure to regenerate code for posting to '{}'?"
+msgstr "¿Está seguro de volver a generar el código para publicar en '{}'?"
 
 msgid "Are you wish to enable show addresses mode to chat '{}'?"
-msgstr "Are you wish to enable show addresses mode to chat '{}'?"
+msgstr "¿Desea habilitar el modo de mostrar direcciones para chatear '{}'?"
 
 msgid "Select action or email from menu."
-msgstr "Select action or email from menu."
+msgstr "Seleccione la acción o el correo electrónico del menú."
 
 msgid "Allowlist was cleared for '{}'."
-msgstr "Allowlist was cleared for '{}'."
+msgstr "Se borró la lista de permitidos para '{}'."
 
 msgid "Stoplist was cleared for '{}'."
-msgstr "Stoplist was cleared for '{}'."
+msgstr "Se borró la lista de parada para '{}'."
 
 msgid "Clear allowlist"
-msgstr "Clear allowlist"
+msgstr "Borrar lista permitida"
 
 msgid "Clear stoplist"
-msgstr "Clear stoplist"
+msgstr "Lista de parada clara"
 
 msgid "Back to chat manage"
-msgstr "Back to chat manage"
+msgstr "Volver a administrar chat"
 
 msgid "Mailbox '{}' was removed from stoplist of the '{}'."
-msgstr "Mailbox '{}' was removed from stoplist of the '{}'."
+msgstr "El buzón '{}' se eliminó de la lista de parada de '{}'."
 
 msgid "There is no email addresses, who bannned in '{}'."
-msgstr "There is no email addresses, who bannned in '{}'."
+msgstr "No hay direcciones de correo electrónico que hayan prohibido en '{}'."
 
 msgid "Editing item of the stoplist."
-msgstr "Editing item of the stoplist."
+msgstr "Editando elemento de la lista de palabras clave."
 
 msgid "Select action for email '{}'"
-msgstr "Select action for email '{}'"
+msgstr "Seleccionar acción para el correo electrónico '{}'"
 
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "Cancelar"
 
 msgid "Remove email from stoplist"
-msgstr "Remove email from stoplist"
+msgstr "Eliminar el correo electrónico de la lista de parada"
 
 msgid ""
 "Are you sure to clean the list of email addresses, that are banned in '{}'?"
@@ -843,25 +843,25 @@ msgstr ""
 "Are you sure to clean the list of email addresses, that are banned in '{}'?"
 
 msgid "Mailbox '{}' was removed from allowlist of the '{}'."
-msgstr "Mailbox '{}' was removed from allowlist of the '{}'."
+msgstr "El buzón '{}' se eliminó de la lista de permitidos de '{}'."
 
 msgid "There is no email addresses, who can post to '{}'."
-msgstr "There is no email addresses, who can post to '{}'."
+msgstr "No hay direcciones de correo electrónico que puedan publicar en '{}'."
 
 msgid "Editing item of the allowlist."
-msgstr "Editing item of the allowlist."
+msgstr "Editando elemento de la lista de permitidos."
 
 msgid "Remove email from allowlist"
-msgstr "Remove email from allowlist"
+msgstr "Eliminar correo electrónico de la lista de permitidos"
 
 msgid "Email '{}' have text-transform call at '{}'"
-msgstr "Email '{}' have text-transform call at '{}'"
+msgstr "El correo electrónico '{}' tiene una llamada de transformación de texto en '{}'"
 
 msgid "Remove text-transform"
-msgstr "Remove text-transform"
+msgstr "Eliminar transformación de texto"
 
 msgid "Set text-transform"
-msgstr "Set text-transform"
+msgstr "Establecer transformación de texto"
 
 msgid ""
 "Please enter the web address for HTTP request, that makes transformation of "
@@ -871,22 +871,22 @@ msgstr ""
 "original message text."
 
 msgid "This address can't contain '|' and ';' symbols."
-msgstr "This address can't contain '|' and ';' symbols."
+msgstr "Esta dirección no puede contener '|' y ';' símbolos"
 
 msgid "[There is a HOWTO]({}) for building and deploying such web resource."
-msgstr "[There is a HOWTO]({}) for building and deploying such web resource."
+msgstr "[Hay un CÓMO] ({}) para crear e implementar dicho recurso web."
 
 msgid "https://github.com/vb64/telegram.email.notify/blob/master/README.md"
 msgstr "https://github.com/vb64/telegram.email.notify/blob/master/README.md"
 
 msgid "Checking given address '{}'..."
-msgstr "Checking given address '{}'..."
+msgstr "Comprobando la dirección proporcionada '{}' ..."
 
 msgid "This address looks wrong: {}"
-msgstr "This address looks wrong: {}"
+msgstr "Esta dirección parece incorrecta: {}"
 
 msgid "Text-transform canceled for source: '{}'"
-msgstr "Text-transform canceled for source: '{}'"
+msgstr "Transformación de texto cancelada para la fuente: '{}'"
 
 msgid ""
 "Are you sure to clean the list of email addresses, that can post to '{}'?"
@@ -894,7 +894,7 @@ msgstr ""
 "Are you sure to clean the list of email addresses, that can post to '{}'?"
 
 msgid "For chat '{}' scheduled tasks: {}"
-msgstr "For chat '{}' scheduled tasks: {}"
+msgstr "Para las tareas programadas de chat '{}': {}"
 
 msgid ""
 "Select a scheduled task from the list for edit or Cancel to return to chat "
@@ -904,79 +904,79 @@ msgstr ""
 "manage menu."
 
 msgid "deletion of message"
-msgstr "deletion of message"
+msgstr "borrado de mensaje"
 
 msgid "publication of message"
-msgstr "publication of message"
+msgstr "publicación de mensaje"
 
 msgid "removal {} from now ({})"
-msgstr "removal {} from now ({})"
+msgstr "eliminación {} desde ahora ({})"
 
 msgid "For '{}' planned:"
-msgstr "For '{}' planned:"
+msgstr "Para '{}' planificado:"
 
 msgid "Message preview"
-msgstr "Message preview"
+msgstr "Vista previa del mensaje"
 
 msgid "Back to scheduled tasks list"
-msgstr "Back to scheduled tasks list"
+msgstr "Volver a la lista de tareas programadas"
 
 msgid "Start now"
-msgstr "Start now"
+msgstr "Empezar ahora"
 
 msgid "Revoke task"
-msgstr "Revoke task"
+msgstr "Revocar tarea"
 
 msgid "Select action from menu."
-msgstr "Select action from menu."
+msgstr "Seleccione la acción del menú."
 
 msgid "Go to message"
-msgstr "Go to message"
+msgstr "Ir al mensaje"
 
 msgid "Task revoked."
-msgstr "Task revoked."
+msgstr "Tarea revocada."
 
 msgid "Are you sure to revoke this task?"
-msgstr "Are you sure to revoke this task?"
+msgstr "¿Estás seguro de revocar esta tarea?"
 
 msgid "Starting the task..."
-msgstr "Starting the task..."
+msgstr "Comenzando la tarea ..."
 
 msgid "Are you sure to run now this task?"
-msgstr "Are you sure to run now this task?"
+msgstr "¿Está seguro de ejecutar ahora esta tarea?"
 
 msgid "Who voted?"
-msgstr "Who voted?"
+msgstr "¿Quién votó?"
 
 msgid "Voting finished"
-msgstr "Voting finished"
+msgstr "Votación finalizada"
 
 msgid "You already voted"
-msgstr "You already voted"
+msgstr "Ya votaste"
 
 msgid "Poll results unreachable."
-msgstr "Poll results unreachable."
+msgstr "Resultados de la encuesta inalcanzables."
 
 msgid "Additional votes have been displayed."
-msgstr "Additional votes have been displayed."
+msgstr "Se han mostrado votos adicionales."
 
 msgid "View more results"
-msgstr "View more results"
+msgstr "Ver más resultados"
 
 msgid "Poll completed."
-msgstr "Poll completed."
+msgstr "Encuesta completada."
 
 msgid "Time to poll finish:"
-msgstr "Time to poll finish:"
+msgstr "Hora de finalizar la encuesta:"
 
 msgid "Total votes: {}"
-msgstr "Total votes: {}"
+msgstr "Total de votos: {}"
 
 msgid "Click on the vote to view Telegram profile of the voter."
-msgstr "Click on the vote to view Telegram profile of the voter."
+msgstr "Haga clic en el voto para ver el perfil de Telegram del votante."
 
 msgid "No votes yet."
-msgstr "No votes yet."
+msgstr "Aún no hay votos."
 
 msgid ""
 "Please forward here the contact or message from a user to know how this user "
@@ -986,7 +986,7 @@ msgstr ""
 "participated in the poll."
 
 msgid "To create and manage your own poll, use /start command."
-msgstr "To create and manage your own poll, use /start command."
+msgstr "Para crear y administrar su propia encuesta, use el comando / start."
 
 msgid ""
 "Use /help_inlines command for details how to create a poll from your email "
@@ -996,31 +996,31 @@ msgstr ""
 "message."
 
 msgid "User '{}' voted: '{}'."
-msgstr "User '{}' voted: '{}'."
+msgstr "El usuario '{}' votó: '{}'."
 
 msgid "User '{}' does not participate in this poll."
-msgstr "User '{}' does not participate in this poll."
+msgstr "El usuario '{}' no participa en esta encuesta."
 
 msgid "Contact '{}' voted: '{}'."
-msgstr "Contact '{}' voted: '{}'."
+msgstr "Contacto '{}' votado: '{}'."
 
 msgid "Contact '{}' does not participate in this poll."
-msgstr "Contact '{}' does not participate in this poll."
+msgstr "El contacto '{}' no participa en esta encuesta."
 
 msgid "Your contact '{}' does not have a known Telegram account."
-msgstr "Your contact '{}' does not have a known Telegram account."
+msgstr "Su contacto '{}' no tiene una cuenta de Telegram conocida."
 
 msgid "Can't find 'forward from' data in this message."
-msgstr "Can't find 'forward from' data in this message."
+msgstr "No se pueden encontrar los datos de "reenviar desde" en este mensaje."
 
 msgid "Buy coins for EmailGateBot project."
-msgstr "Buy coins for EmailGateBot project."
+msgstr "Compre monedas para el proyecto EmailGateBot."
 
 msgid "Hi"
-msgstr "Hi"
+msgstr "Hola"
 
 msgid "Choose the payment method that's right for you."
-msgstr "Choose the payment method that's right for you."
+msgstr "Elija el método de pago adecuado para usted."
 
 msgid ""
 "If the payment method that you need is not listed, write about it in the"
@@ -1028,74 +1028,74 @@ msgstr ""
 "If the payment method that you need is not listed, write about it in the"
 
 msgid "bot support group"
-msgstr "bot support group"
+msgstr "grupo de apoyo bot"
 
 msgid "You can write in English or Russian."
-msgstr "You can write in English or Russian."
+msgstr "Puede escribir en inglés o en ruso."
 
 msgid "Payment for EmailGateBot"
-msgstr "Payment for EmailGateBot"
+msgstr "Pago por EmailGateBot"
 
 msgid "How many EmailGateBot coins do you want to buy?"
-msgstr "How many EmailGateBot coins do you want to buy?"
+msgstr "¿Cuántas monedas de EmailGateBot quieres comprar?"
 
 msgid "Continue"
-msgstr "Continue"
+msgstr "Seguir"
 
 msgid "Order checkout"
-msgstr "Order checkout"
+msgstr "Realizar pedido"
 
 msgid "You canceled your purchase."
-msgstr "You canceled your purchase."
+msgstr "Cancelaste tu compra."
 
 msgid "Dear"
-msgstr "Dear"
+msgstr "querido"
 
 msgid "Please, write about the reasons for refusal in the"
-msgstr "Please, write about the reasons for refusal in the"
+msgstr "Por favor, escriba los motivos del rechazo en el"
 
 msgid "Thank you for your purchase!"
-msgstr "Thank you for your purchase!"
+msgstr "Gracias por su compra!"
 
 msgid "EmailGateBot coins will be credited to your account shortly."
-msgstr "EmailGateBot coins will be credited to your account shortly."
+msgstr "Las monedas de EmailGateBot se acreditarán en su cuenta en breve."
 
 msgid "Donate!"
-msgstr "Donate!"
+msgstr "¡Donar!"
 
 msgid "You can support project development by donating if you like this bot."
-msgstr "You can support project development by donating if you like this bot."
+msgstr "Puede apoyar el desarrollo del proyecto donando si le gusta este bot."
 
 msgid "not set"
-msgstr "not set"
+msgstr "no establecido"
 
 msgid "Your current language is '{}'."
-msgstr "Your current language is '{}'."
+msgstr "Su idioma actual es '{}'."
 
 msgid "Select language from the list."
-msgstr "Select language from the list."
+msgstr "Seleccione el idioma de la lista."
 
 msgid "Language set to '{}'."
-msgstr "Language set to '{}'."
+msgstr "Idioma establecido en '{}'."
 
 msgid "Send /start to continue."
-msgstr "Send /start to continue."
+msgstr "Enviar / comenzar para continuar."
 
 msgid "List of registered referrals, UTC times"
-msgstr "List of registered referrals, UTC times"
+msgstr "Lista de referencias registradas, horas UTC"
 
 msgid "Donating to '{}' project."
-msgstr "Donating to '{}' project."
+msgstr "Donando al proyecto '{}'."
 
 msgid "Thank you for your support to '{}' project!"
-msgstr "Thank you for your support to '{}' project!"
+msgstr "¡Gracias por su apoyo al proyecto '{}'!"
 
 msgid "Your donation {} {} was received."
-msgstr "Your donation {} {} was received."
+msgstr "Se recibió su donación {} {}."
 
 msgid "Thank you for choosing to donate to the project '{}'."
-msgstr "Thank you for choosing to donate to the project '{}'."
+msgstr "Gracias por elegir donar al proyecto '{}'."
 
 msgid "May be next time, ok."
-msgstr "May be next time, ok."
+msgstr "Puede ser la próxima vez, ok."
 
